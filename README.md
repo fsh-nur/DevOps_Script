@@ -1,7 +1,7 @@
 # DevOps, Cloud and AWS
 
-# DevOps ![image](https://user-images.githubusercontent.com/129324316/231520445-64fb51de-e3a5-43f0-aa9e-e03937603553.png)
-
+# DevOps  <img src= https://user-images.githubusercontent.com/129324316/231520445-64fb51de-e3a5-43f0-aa9e-e03937603553.png alt="Girl in a jacket" width="200" height="200"> 
+  
 ## What is DevOps?
 DevOps is the collaboration of software development and operations, automating and integrating these two sectors, as a means to improve and streamline the development life cycle.
 
