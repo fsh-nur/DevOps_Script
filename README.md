@@ -35,7 +35,7 @@ Previously development teams and operations teams worked seperately and there wa
 - Monitoring DevOps pipeline and application 
 - Ensure software is up to date
 
-# Cloud and AWS ![image](https://user-images.githubusercontent.com/129324316/231520585-d1ded05f-e7c8-421a-bcf6-e5f1ea6a1098.png)
+# Cloud and AWS <img src="https://user-images.githubusercontent.com/129324316/231520585-d1ded05f-e7c8-421a-bcf6-e5f1ea6a1098.png" alt="Girl in a jacket" width="10" height="10">
 
 
 ## What is Cloud Computing and AWS?
