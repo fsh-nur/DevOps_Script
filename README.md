@@ -5,9 +5,10 @@
 DevOps is the collaboration of software development and operations, automating and integrating these two sectors, as a means to improve and streamline the development life cycle.
 
 ## Why DevOps?
-Previously development teams and operations teams worked sepeerately and there wasnot much collaboration. The development team ould run into problems. For example, deployment environments can vary from development to production so errors can occur. With operations similar errors occured when deploying, as well as lack of communication and collaboration in turn led to less frequent delivery of software, as well as issues when it came to deployment. This is where the DevOps culture is born and encouraged when managing the software development lifecycle.
-Why do companies use DevOps?
-They use DevOps mainly as there si collaboration between teams, there is a more streamlined workflow this way. Applications are delivered faster, overall a more productive way of working. 
+Previously development teams and operations teams worked seperately and there wasnot much collaboration. The development team ould run into problems. For example, deployment environments can vary from development to production so errors can occur. With operations similar errors occured when deploying, as well as lack of communication and collaboration in turn led to less frequent delivery of software, as well as issues when it came to deployment. This is where DevOps cultures comes in. Companies that adopt DevOps practices and tools gain a competitive advantage that is very significant where:
+- Products are built faster
+- There is greater customer satisfaction and user experience
+- Collaboration and productivity are improved 
 
 ### Technical Benefits of DevOps
 - Automated scalable environments
@@ -26,10 +27,10 @@ They use DevOps mainly as there si collaboration between teams, there is a more 
 
 ## DevOps Role
 
-The role of DevOps is collaborating and sharing responsibilities between the wo different elements of development and operations:
-
--  
-
+- Delivering high quality software frequently and fast
+- Implementing automation supported by the *CI/CD* pipeline
+- Monitoring DevOps pipeline and application 
+- Ensure software is up to date
 
 #Cloud and AWS
 
@@ -37,13 +38,13 @@ The role of DevOps is collaborating and sharing responsibilities between the wo 
 Cloud computing is the delivery of resources over the internet "cloud" as develeopers referred to it. Instead of storing data in hardware, such as data centers and servers, cloud computing provides this service to companies. AWS(Amazon Web Services) is an example of a cloud provider.
 
 ## How does it fit into DevOps?
-- Cloud computing is agile: DevOps teams can curate many cloud environments in minutes, and shut them down when no longer needed, instead of having to maintain physical IT infrastructures which would take more time.
-- DevOps Automation: DevOps uses cloid systems such as Kubernetes where appls can be continuously integrated and deployed as well as monitored automatically.
-- Serverless Computing: DevOps are able to build, deploy and operate serverless apps.
+- Cloud computing is agile: DevOps teams can curate many cloud environments in minutes, and shut them down when no longer needed, instead of having to maintain physical IT infrastructures which would take more time. As well as manage access between teams allowing for collaboration in DevOps.
+- DevOps Automation: DevOps uses cloud systems such as Kubernetes where apps can be continuously integrated and deployed as well as monitored automatically.
+- Serverless Computing: DevOps are able to build, deploy and operate serverless apps, using *Infrastructure as Code* (IaC) the process of building infrastructure can be automated instead o fbeing done physically, and can be changed respectively.
 ## Benefits of Cloud Computing  
 - Cloud computing allows companies to manage data without the hassle and maintenance of building a physical IT infrastructure such as Data Centers
 - Data Loss Prevention
 - Allows quick response to change during periods of disruption
 - Reduced carbon footprint
-- Document Control
+- Cost Effective
 
