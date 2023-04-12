@@ -31,7 +31,7 @@ The role of DevOps is collaborating and sharing responsibilities between the wo 
 -  
 
 
-#Cloud and AWS
+# Cloud and AWS
 
 ## What is Cloud Computing and AWS?
 Cloud computing is the delivery of resources over the internet "cloud" as develeopers referred to it. Instead of storing data in hardware, such as data centers and servers, cloud computing provides this service to companies. AWS(Amazon Web Services) is an example of a cloud provider.
