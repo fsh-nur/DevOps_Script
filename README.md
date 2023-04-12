@@ -1,6 +1,7 @@
 # DevOps, Cloud and AWS
 
-# DevOps
+# DevOps ![image](https://user-images.githubusercontent.com/129324316/231520445-64fb51de-e3a5-43f0-aa9e-e03937603553.png)
+
 ## What is DevOps?
 DevOps is the collaboration of software development and operations, automating and integrating these two sectors, as a means to improve and streamline the development life cycle.
 
@@ -9,6 +10,8 @@ Previously development teams and operations teams worked seperately and there wa
 - Products are built faster
 - There is greater customer satisfaction and user experience
 - Collaboration and productivity are improved 
+
+![Black White Modern Handwritten Square Studio Logo](https://user-images.githubusercontent.com/129324316/231521352-433a15e0-b426-429d-b3eb-0ea66ec29922.png)
 
 ### Technical Benefits of DevOps
 - Automated scalable environments
@@ -32,7 +35,8 @@ Previously development teams and operations teams worked seperately and there wa
 - Monitoring DevOps pipeline and application 
 - Ensure software is up to date
 
-# Cloud and AWS
+# Cloud and AWS ![image](https://user-images.githubusercontent.com/129324316/231520585-d1ded05f-e7c8-421a-bcf6-e5f1ea6a1098.png)
+
 
 ## What is Cloud Computing and AWS?
 Cloud computing is the delivery of resources over the internet "cloud" as develeopers referred to it. Instead of storing data in hardware, such as data centers and servers, cloud computing provides this service to companies. AWS(Amazon Web Services) is an example of a cloud provider.
