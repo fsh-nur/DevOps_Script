@@ -57,8 +57,13 @@ Cloud computing is the delivery of resources over the internet "cloud" as develo
 
 ## Companies that have moved to the cloud 
 - Netflix:
+
 Netflix turned to cloud in order to scale their services due to the spike in demand, now they produce their own movies, and have made a major comeback since their crash in 2008.
-- Instagram 
+
+- Instagram:
+
 Similar to Netflix, Instagram turned to cloud computing in order to scale the app, where their servers were overwhelmed- they had 3 million users 3 months shortly after they turned to the cloud.
-- Etsy
+
+- Etsy:
+
 Cost-effective analytics is by far one of the most alluring features of cloud computing. Etsy turned to big data solutions to help with its predictive analytics, such as the site’s Taste Test feature which helps determine which products are the right fit for a particular customer.
