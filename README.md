@@ -52,3 +52,5 @@ Cloud computing is the delivery of resources over the internet "cloud" as devele
 - Reduced carbon footprint
 - Cost Effective
 
+## Companies that have moved to the cloud 
+
