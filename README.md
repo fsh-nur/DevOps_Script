@@ -11,7 +11,7 @@ Previously development teams and operations teams worked seperately and there wa
 - There is greater customer satisfaction and user experience
 - Collaboration and productivity are improved 
 
-<img style="float: right;" src="![Black White Modern Handwritten Square Studio Logo (1)](https://user-images.githubusercontent.com/129324316/231521849-81896727-35a9-4055-8d39-03469b1814e5.png)">
+<img style="float: right;" src=https://user-images.githubusercontent.com/129324316/231521849-81896727-35a9-4055-8d39-03469b1814e5.png>
 
 ### Technical Benefits of DevOps
 - Automated scalable environments
