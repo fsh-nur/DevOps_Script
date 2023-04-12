@@ -7,10 +7,10 @@ DevOps is the collaboration of software development and operations, automating a
 
 ## Why DevOps?
 Previously development teams and operations teams worked seperately and there wasnot much collaboration. The development team ould run into problems. For example, deployment environments can vary from development to production so errors can occur. With operations similar errors occured when deploying, as well as lack of communication and collaboration in turn led to less frequent delivery of software, as well as issues when it came to deployment. This is where DevOps cultures comes in. Companies that adopt DevOps practices and tools gain a competitive advantage that is very significant where:
-<img style="float: left;" src=https://user-images.githubusercontent.com/129324316/231521849-81896727-35a9-4055-8d39-03469b1814e5.png>
+
 - Products are built faster
 - There is greater customer satisfaction and user experience
-- Collaboration and productivity are improved 
+- Collaboration and productivity are improved <img style="float: left;" src=https://user-images.githubusercontent.com/129324316/231521849-81896727-35a9-4055-8d39-03469b1814e5.png>
 
 
 ### Technical Benefits of DevOps
