@@ -1,6 +1,6 @@
 # DevOps, Cloud and AWS
 
-#DevOps
+# DevOps
 ## What is DevOps?
 DevOps is the collaboration of software development and operations, automating and integrating these two sectors, as a means to improve and streamline the development life cycle.
 
@@ -32,7 +32,7 @@ Previously development teams and operations teams worked seperately and there wa
 - Monitoring DevOps pipeline and application 
 - Ensure software is up to date
 
-#Cloud and AWS
+# Cloud and AWS
 
 ## What is Cloud Computing and AWS?
 Cloud computing is the delivery of resources over the internet "cloud" as develeopers referred to it. Instead of storing data in hardware, such as data centers and servers, cloud computing provides this service to companies. AWS(Amazon Web Services) is an example of a cloud provider.
